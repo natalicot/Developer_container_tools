@@ -38,7 +38,7 @@ kubectl get namespaces
 ```
 
 ## Find more:
-For more examples on working with a k8s cluster checkout sela's k8s workshop repository. wher you can find a lot of cool labs:
+For more examples on working with a k8s cluster checkout sela's k8s workshop repository. where you can find a lot of cool labs:
 [sela k8s labs](https://gitlab.com/sela-kubernetes-workshop)
 
 ## Useful tool:
