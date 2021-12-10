@@ -3,7 +3,7 @@ Getting familiar with different container tools.
 
 # Container perspective
 
-### Build Run Push
+### Build Run Push Containers
 - [Podman](Podman/)
 - [Buildah](Buildah/)
 - [Skopeo](Skopeo/)
@@ -21,4 +21,9 @@ Getting familiar with different container tools.
 ### UI
 - [Lens](Lens/)
 - [k9s](k9s/)
+
+#### Demo from lecture:
+- [Demo](Lecture_demo.sh/)
+
+
 
