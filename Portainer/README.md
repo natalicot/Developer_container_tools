@@ -15,9 +15,9 @@
 - Portainer helps developers deploy cloud-native applications into containers simply, quickly and securely.
 
 
-### Get started
+## Get started
 
-## Portainer and docker
+### Portainer and docker
 
 ```sh
 # create the portainer volume
@@ -43,13 +43,13 @@ docker ps
 echo https://localhost:9443
 ```
 
-## Portainer and Podman
+### Portainer and Podman
 
-# For using Portainer with Podman you will first need to expose the Podman socket, to do that you will need to initiate your WSL with systemd: 
+For using Portainer with Podman you will first need to expose the Podman socket, to do that you will need to initiate your WSL with systemd: 
 
 [Enable systemd in WSL 2](https://gist.github.com/djfdyuruiry/6720faa3f9fc59bfdf6284ee1f41f950)
 
-# Enable systemd in WSL 2:
+##### Enable systemd in WSL 2:
 
 - Copy the contents of `install-sg.sh` to a new file `/tmp/install-sg.sh`:
 
@@ -89,7 +89,7 @@ echo https://localhost:9443
   sudo systemctl status time-sync.target
   ```
 
-# Running Portainer with podman
+#### Running Portainer with podman
 ```sh
 # create the portainer volume
 sudo podman volume create portainer_data
