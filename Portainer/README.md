@@ -8,11 +8,9 @@
 ### About
 - Portainer is an open source software project.
 
-- Portainer provides an UI for our local running containers.
+- Portainer provides an container management  UI.
 
-- powerful, enterprise grade Container Service Delivery Platform.
-
-- Portainer helps developers deploy cloud-native applications into containers simply, quickly and securely.
+![podman](../images/portainerUI.png)
 
 
 ## Get started

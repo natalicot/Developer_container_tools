@@ -6,15 +6,17 @@
 [official website](https://rancherdesktop.io/)
 
 ### About
-- Rancher Desktop is an open-source desktop application for Mac, Windows and Linux. It provides Kubernetes and container management.
+
+- Rancher Desktop is an open-source desktop application for Mac, Windows and Linux. 
 
 - The version of Kubernetes you choose
 
-- Ability to test upgrading Kubernetes to a new version and see how your workloads respond
+- Run containers, and build, push, and pull images (powered by nerdctl & kim).
 
-- Run containers, and build, push, and pull images (powered by nerdctl & kim)
+- Rancher cannot run multiple clusters at ones. And doesn’t support a multiple node cluster.
 
-- Expose an application in Kubernetes for local access
+
+
 
 
 ### Get started

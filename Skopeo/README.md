@@ -4,13 +4,11 @@
 [Skopeo GitHub Pages](https://github.com/containers/skopeo)
 
 ### About
-- Copying an image from and to various storage mechanisms. 
+- Syncing repositories.
 
 - Inspecting a remote image showing its properties including its layers.
 
-- Deleting an image from an image repository.
-
-- Syncing an external image repository to an internal.
+- Deleting, tagging an image from an image repository.
 
 
 ### Get started

@@ -6,10 +6,12 @@
 [official website](https://podman.io/)
 
 ### About
--  The most prominent competitor to Docker is Podman, developed by Red Hat.
--  Podman is daemon-less and runs root/less
- - Podman uses can also run pods which make it easier to later migrate the workloads to Kubernetes.
- - Podman provides the exact same CLI commands as Docker as they are implemented using the same standard defined by the Open Container Initiatives (OCI).
+- The most prominent competitor to Docker is Podman, developed by Red Hat.
+- Podman is daemon-less.
+- Podman can be root or rootless. 
+- Podman runs pods which make it easier to later migrate the workloads to Kubernetes.
+- Podman provides the exact same CLI commands as Docker as they are implemented using the same standard defined by the Open Container Initiatives (OCI).
+
 
 
 ### Get started
@@ -20,12 +22,12 @@ podman --version
 
 ```sh
 # podman run my demo container
-podman run --name mycontainer -d -p 8081:8080 natalicot/my_demo_app:1.0.1
+podman run --name mycontainer -d -p 8081:8080 natalicot/my_awsome_app:1.0.1
 ```
 
 ```sh
 # podman run my demo container
-podman run --name mycontainer -d -p 8081:8080 natalicot/my_demo_app:1.0.1
+podman run --name mycontainer -d -p 8081:8080 natalicot/my_awsome_app:1.0.1
 ```
 
 ```sh

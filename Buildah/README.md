@@ -6,10 +6,13 @@
 [official website](https://buildah.io/)
 
 ### About
-- Buildah is a tool developed by Red Hat and it comes along with Podman and is called when you run podman build.
+
+- Buildah is developed by Red Hat. 
 - Buildah is daemonless and rootless.
-- Buildah  can mount a working container's root filesystem for manipulation.
-- Use the updated contents of a container's root filesystem as a filesystem layer to create a new image.
+- Buildah  supports complex build scenarios. 
+- Buildah comes along with Podman and is called when you run podman build.
+
+
 
 
 ### Get started

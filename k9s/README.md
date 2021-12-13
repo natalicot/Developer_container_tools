@@ -6,6 +6,7 @@
 [official website](https://k9scli.io/)
 
 ### About
+
 - K9s provides a terminal UI to interact with your Kubernetes clusters.
 
 - make it easier to navigate, observe and manage your applications.

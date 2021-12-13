@@ -6,10 +6,12 @@
 [official website](https://kind.sigs.k8s.io/)
 
 ### About
-- kind is a tool for running local Kubernetes clusters using Docker container “nodes”.Cross-platform (Linux, macOS, Windows).
-- faster startup speed compared to kind.
-- ability to load local images directly into the cluster.  -> kind load docker-image my-app:latest
 
+- kind is a tool for running local Kubernetes clusters using Docker or Podman container “nodes”. Cross-platform (Linux, macOS, Windows)
+- faster startup speed compared to minikube.
+- Multiple cluster.
+- Multiple nodes.
+- ability to load local images directly into the cluster.  -> kind load docker-image my-app:latest
 
 ### Get started
 ```sh
