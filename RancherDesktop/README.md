@@ -1,19 +1,22 @@
-# Ranche Desktop
+<style>
+  .rtl { direction:rtl;}
+</style>
+<div class="rtl">
+
+# Rancher Desktop
 ![Ranche Desktop](../images/rancher.png)
 
 [Ranche Desktop GitHub Pages](https://github.com/rancher-sandbox/rancher-desktop)
 
 [official website](https://rancherdesktop.io/)
 
-### About
+-  כלי קוד פתוח הרץ על מערכת הפעלה של וינדווס לינוקר ומאק
+- מאפשר להריץ קלאסר לוקלי
+- תומך במספר גרסאות קוברנטיס
+- ללא היכולת להריץ כמה קלאסטרים במקביל
+- ללא היכולת להריץ קלאסטר עם כמה nodes
 
--  רנצר דסקטום הוא כלי אופן סורסי הרץ על מערכת הפעלה של וינדווס לינוקר ומאק
-- רנצר דסקטופ מאפש להריץ קלאסר לוקלי
-- ניתן לבחור את גרסת הקוברנטיס שמריץ הראנצר דסקטופ
-- לראנצר אין את היכולת להריץ כמה קלאסטרים במקביל
-- לראנצר אין את היכולת להריץ קלאסטר עם כמה נודים
-
-
+</div>
 
 ### Get started
 ```sh
