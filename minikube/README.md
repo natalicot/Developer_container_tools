@@ -6,13 +6,14 @@
 [official website](https://minikube.sigs.k8s.io/)
 
 ### About
-- minikube sets up a local Kubernetes cluster on macOS, Linux, and Windows.
-- Supports the latest Kubernetes release (+6 previous minor versions)
-- Cross-platform (Linux, macOS, Windows)
-- Deploy as a VM, a container, or on bare-metal
-- Multiple container runtimes (CRI-O, containerd, docker)
-- Minikube doesn’t support multy node cluster.
 
+
+- מיניקיוב הוא כלי אופן סורסי להרצת קלאסטר לוקלי
+- תומך בגרסת הקוברנטיס הנוכחית וב6 גרסאות אחורה
+- רץ על שלושת מערכות ההפעלה העיקריות - וונדווס לינוקס ומאק
+- משתמש ב וירטואל משין, דוקר או בחומרה הפיזית כדי לרוץ
+- תומך בהרצת כמה קלאסטרים ביחד
+- לא תומך בהרצת כמה נודים על קלאסטר אחד
 
 ### Get started
 ```sh

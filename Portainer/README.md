@@ -6,9 +6,10 @@
 [official website](https://www.portainer.io/)
 
 ### About
-- Portainer is an open source software project.
+- פורטיינר הוא כלי הנכטב בקוד פתוח המשמש כממשק משתמש לקונטיינרים
+- פורטיינר רץ כקונטייר ומתחבר לסוקט
+- כדי להריץ פורטיינר עם פודמן צריך להריץ את פודמן עם סיסטם די
 
-- Portainer provides an container management  UI.
 
 ![podman](../images/portainerUI.png)
 
@@ -43,7 +44,7 @@ echo https://localhost:9443
 
 ### Portainer and Podman
 
-For using Portainer with Podman you will first need to expose the Podman socket, to do that you will need to initiate your WSL with systemd: 
+כדי להתמש בפורטיינר עם פודמן צריך לאפשר גישה לסוקט של הפודמן, כדי לעשות את זה יש להפעיל את מערכת הלינוקס עם סיסטם די. מדריך:
 
 [Enable systemd in WSL 2](https://gist.github.com/djfdyuruiry/6720faa3f9fc59bfdf6284ee1f41f950)
 

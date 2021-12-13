@@ -7,12 +7,11 @@
 
 ### About
 
-- Buildah is developed by Red Hat. 
-- Buildah is daemonless and rootless.
-- Buildah  supports complex build scenarios. 
-- Buildah comes along with Podman and is called when you run podman build.
-
-
+- בילדה היא כלי הפותח ע"י רד האט
+- בילדה מתמחה בכל הקשור לבניית אימגים
+- בילדה יכולה לרוץ כיוזר רגיל או כיוזר רוט
+- לבילדה יש הרבה יכולות תמרון והרבה כלים לבניית אימזים לכל הצרכים
+- בילדה מגיע יחד עם פודמן בפקודת פודמן בילד
 
 
 ### Get started

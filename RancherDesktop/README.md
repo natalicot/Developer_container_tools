@@ -7,15 +7,11 @@
 
 ### About
 
-- Rancher Desktop is an open-source desktop application for Mac, Windows and Linux. 
-
-- The version of Kubernetes you choose
-
-- Run containers, and build, push, and pull images (powered by nerdctl & kim).
-
-- Rancher cannot run multiple clusters at ones. And doesn’t support a multiple node cluster.
-
-
+-  רנצר דסקטום הוא כלי אופן סורסי הרץ על מערכת הפעלה של וינדווס לינוקר ומאק
+- רנצר דסקטופ מאפש להריץ קלאסר לוקלי
+- ניתן לבחור את גרסת הקוברנטיס שמריץ הראנצר דסקטופ
+- לראנצר אין את היכולת להריץ כמה קלאסטרים במקביל
+- לראנצר אין את היכולת להריץ קלאסטר עם כמה נודים
 
 
 

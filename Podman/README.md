@@ -6,12 +6,11 @@
 [official website](https://podman.io/)
 
 ### About
-- The most prominent competitor to Docker is Podman, developed by Red Hat.
-- Podman is daemon-less.
-- Podman can be root or rootless. 
-- Podman runs pods which make it easier to later migrate the workloads to Kubernetes.
-- Podman provides the exact same CLI commands as Docker as they are implemented using the same standard defined by the Open Container Initiatives (OCI).
-
+- פודמן הוא מנוע להרצת קונטיינרים המפותח ע"י רד האט
+- פודמן מריץ קונטיינרים ללא הצורך בדימון, כלומר המפתח יכול לגשת ישירות לקונטיינר מה שיוצר סביבה יותר מאובטחת
+- פודמן יכול לרוץ גם כיוזר רגיל וגם כרוט יוזר
+- פודמן יכול להריץ פודים מה שמקל על המעבר לקוברנטיס
+- ניתן לתת אלייס לפודמן שיהיה שווה לדוקר ולהמשיך להשתמש בפקודות הרגילות
 
 
 ### Get started

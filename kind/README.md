@@ -7,12 +7,12 @@
 
 ### About
 
-- kind is a tool for running local Kubernetes clusters using Docker or Podman container “nodes”. Cross-platform (Linux, macOS, Windows)
-- faster startup speed compared to minikube.
-- Multiple cluster.
-- Multiple nodes.
-- ability to load local images directly into the cluster.  -> kind load docker-image my-app:latest
-
+- קינד הוא כלי אופן סורסי המאפר הרצה של קלאסר לוקלי
+- תומך בגירסאות שונות של קוברנטיס
+- משתמש בקונטיינר של דוקר או של פודמן כנודים בזמן הריצה
+- מאפשר שימוש בכמה נוודים בקלאסר אחד
+- מאפשר הרצה של כמה קלאסטרים במקביל
+- מאפשר טעינה של אימגים לוקלים ישירות לתוך הקלאסטר ללא צורך בטעינתם לריפו חצוני
 ### Get started
 ```sh
 # make sure kind is installed

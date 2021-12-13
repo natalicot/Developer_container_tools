@@ -5,12 +5,9 @@
 
 ### About
 
-- Lens is an open source tool.
-
-- Lens is a Kubernetes IDE. 
-- It is available on macOS, Windows, and Linux. 
-
-- Increased visibility, real time statistics, log streams, and hands-on troubleshooting capabilities.
-
-- The ability to work with your clusters quickly and easily.
+- כלי לממשק משתמש של קלאסטר
+- רץ על שלושת מערכות ההפעלה העיקריות - ווינדווס מאק ולינוקס
+- מאפר ויזואליזציה של סטטיסטיקות ולוגים בזמן אמת
+- מאפשר עבודה מול הקלאסר באופן ויזואלי מהיר ונגיש
+- מותא מאוד למפתחים
 
