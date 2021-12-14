@@ -1,18 +1,25 @@
+<style>
+  .rtl { direction:rtl;}
+</style>
+<div class="rtl">
+
 # Kind
+
 ![kind](../images/kind.png)
 
 [kind GitHub Pages](https://github.com/kubernetes-sigs/kind)
 
 [official website](https://kind.sigs.k8s.io/)
 
-### About
 
-- קינד הוא כלי אופן סורסי המאפר הרצה של קלאסר לוקלי
-- תומך בגירסאות שונות של קוברנטיס
-- משתמש בקונטיינר של דוקר או של פודמן כנודים בזמן הריצה
-- מאפשר שימוש בכמה נוודים בקלאסר אחד
+- כלי קוד פתוח המאפשר הרצה של קלאסר לוקלי
+- תומך בגירסאות שונות של kubernetes
+- משתמש בקונטיינר של docker או של podman כ kubernetes nodes בזמן הריצה
+- מאפשר שימוש בכמה nodes בקלאסר אחד
 - מאפשר הרצה של כמה קלאסטרים במקביל
-- מאפשר טעינה של אימגים לוקלים ישירות לתוך הקלאסטר ללא צורך בטעינתם לריפו חצוני
+- מאפשר טעינה של אימגים מקומיים ישירות לתוך הקלאסטר ללא צורך בטעינתם לcontainer registry  חצוני
+</div>
+
 ### Get started
 ```sh
 # make sure kind is installed

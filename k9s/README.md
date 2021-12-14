@@ -1,3 +1,8 @@
+<style>
+  .rtl { direction:rtl;}
+</style>
+<div class="rtl">
+
 # k9s
 ![k9s](../images/k9s.png)
 
@@ -5,14 +10,14 @@
 
 [official website](https://k9scli.io/)
 
-### About
 
-- K9s provides a terminal UI to interact with your Kubernetes clusters.
+- ממשק משתמש טקסטואלי לקוברנטיס - מתאים לטרמינל
 
-- make it easier to navigate, observe and manage your applications.
+- קל לניווט, ומלא קיצורי מקשים לשימוש מהיר ויעיל
 
-- K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.
+- מתעדכן אוטומטי ומציע פקודות בהקשר למקום שבו נמצאים
 
+</div>
 
 ### Get started
 ```sh

@@ -1,17 +1,23 @@
+<style>
+  .rtl { direction:rtl;}
+</style>
+<div class="rtl">
+
 # Portainer
-![podman](../images/portainer.png)
+![Portainer](../images/portainer.png)
 
 [Portainer GitHub Pages](https://github.com/portainer/portainer)
 
 [official website](https://www.portainer.io/)
 
-### About
-- פורטיינר הוא כלי הנכטב בקוד פתוח המשמש כממשק משתמש לקונטיינרים
-- פורטיינר רץ כקונטייר ומתחבר לסוקט
-- כדי להריץ פורטיינר עם פודמן צריך להריץ את פודמן עם סיסטם די
 
+- כלי קוד פתוח המשמש כממשק משתמש לקונטיינרים
+- רץ כקונטייר ומתחבר לsocket
+- כדי להריץ portainer עם podman צריך להריץ את podman עם systemd
 
-![podman](../images/portainerUI.png)
+</div>
+
+![Portainer](../images/portainerUI.png)
 
 
 ## Get started
