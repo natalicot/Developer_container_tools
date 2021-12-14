@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Podman
 ![podman](../images/podman.png)
@@ -16,7 +12,7 @@
 - יכול להריץ פודים מה שמקל על המעבר לקוברנטיס
 - ניתן לבנות alias לפקודה docker שתריץ podman, וכך להמשיך להשתמש בפקודות docker רגילות
 
-</div>
+
 
 ### Get started
 

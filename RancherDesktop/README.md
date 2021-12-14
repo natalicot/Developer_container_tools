@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Rancher Desktop
 ![Ranche Desktop](../images/rancher.png)
@@ -16,7 +12,6 @@
 - ללא היכולת להריץ כמה קלאסטרים במקביל
 - ללא היכולת להריץ קלאסטר עם כמה nodes
 
-</div>
 
 ### Get started
 ```sh

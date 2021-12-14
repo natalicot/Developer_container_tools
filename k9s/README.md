@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # k9s
 ![k9s](../images/k9s.png)
@@ -17,7 +13,7 @@
 
 - מתעדכן אוטומטי ומציע פקודות בהקשר למקום שבו נמצאים
 
-</div>
+
 
 ### Get started
 ```sh

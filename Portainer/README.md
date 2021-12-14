@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Portainer
 ![Portainer](../images/portainer.png)
@@ -15,7 +11,7 @@
 - רץ כקונטייר ומתחבר לsocket
 - כדי להריץ portainer עם podman צריך להריץ את podman עם systemd
 
-</div>
+
 
 ![Portainer](../images/portainerUI.png)
 

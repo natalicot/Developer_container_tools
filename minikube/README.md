@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Minikube
 ![minikube](../images/minikube.png)
@@ -18,7 +14,7 @@
 - תומך בהרצת כמה קלאסטרים ביחד
 - לא תומך בהרצת כמה nodes על קלאסטר אחד
 
-</div>
+
 
 ### Get started
 ```sh

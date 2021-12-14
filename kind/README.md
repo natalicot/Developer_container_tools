@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Kind
 
@@ -18,7 +14,7 @@
 - מאפשר שימוש בכמה nodes בקלאסר אחד
 - מאפשר הרצה של כמה קלאסטרים במקביל
 - מאפשר טעינה של אימגים מקומיים ישירות לתוך הקלאסטר ללא צורך בטעינתם לcontainer registry  חצוני
-</div>
+
 
 ### Get started
 ```sh

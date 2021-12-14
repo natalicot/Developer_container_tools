@@ -1,8 +1,4 @@
 
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Buildah
 ![Buildah](../images/buildah.png)
@@ -16,7 +12,7 @@
 - יכול לרוץ עם הרשאות משתמש רגיל (rootless) או עם הרשאות מנהל (root)
 - לbuildah יש הרבה יכולות תמרון והרבה כלים לבניית  לכל הצרכים
 - podman משתמש ב buildah במהלך פקודת הבניה  
-</div>
+
 
 ### Get started
 ```sh

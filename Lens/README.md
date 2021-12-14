@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Lens
 ![lens](../images/lens.png)
@@ -14,4 +10,4 @@
 - מאפשר עבודה מול הקלאסר באופן ויזואלי מהיר ונגיש
 - מותאם מאוד למפתחים
 
-</div>
+

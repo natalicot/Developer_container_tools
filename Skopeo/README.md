@@ -1,7 +1,3 @@
-<style>
-  .rtl { direction:rtl;}
-</style>
-<div class="rtl">
 
 # Skopeo
 ![Skopeo](../images/skopeo.png)
@@ -13,7 +9,7 @@
 -  מאפשר לסנכרן בין שני docker registries הנימאים בכל מקום
 -  מאפשר למחוק או לשים טאג על אימג בregistry מבלי להוריד את האימג מקומית
 
-</div>
+
 
 ### Get started
 ```sh
